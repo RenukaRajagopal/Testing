@@ -13,7 +13,9 @@ public class FacebookTask2 extends Baseclassmethods{
 		b.elementSendkeys(b.findByID("email"), dataExcel);
 		b.elementSendkeys(b.findByID("pass"), dataExcel2);
 		b.elementClick(b.findByName("login"));
-		
+		System.out.println("Renuka");
+		System.out.println("Renuka");
+		System.out.println("Renuka");
 		
 	}
 }
